@@ -1,5 +1,7 @@
 # WeatherApp
 
+**Note: Use master branch for my code**
+
 For the weather app, we have two pages, as per our requirement.
 Landing Page: It will show the current location details as per latitude and longitude.
 Next Page: The user is able to get weather details as per city name.
